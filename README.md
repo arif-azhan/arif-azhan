@@ -33,6 +33,5 @@
 
 <p align="left">
 - Connect with me on <a href="https://www.linkedin.com/in/arif-azhan-hazlan-b72b34243/">LinkedIn</a> <br/>
-- Check out my <a href="https://arif-azhan.github.io/">Personal Portfolio</a> <br/>
 - Visit my <a href="https://github.com/arif-azhan">GitHub</a> for more projects!
 </p>
